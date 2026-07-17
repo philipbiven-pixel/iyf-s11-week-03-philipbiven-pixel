@@ -65,7 +65,7 @@ iyf-s11-week-03-philipbiven-pixel/
 
 ## Contact
 
-- GitHub: https://github.com/philipbiven-pixel
+- Email: philipbiven@gmail.com
 
 ## License
 
